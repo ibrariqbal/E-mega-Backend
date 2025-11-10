@@ -61,7 +61,7 @@ export default function Login({ onLogin }) {
           <motion.button
             whileHover={{ scale: 1.05 }}
             type="submit"
-            className="w-full bg-[#ff5252] text-white py-3 rounded-lg font-semibold hover:opacity-90 transition"
+            className="curssor-pointer w-full bg-[#ff5252] text-white py-3 rounded-lg font-semibold hover:opacity-90 transition"
           >
             Login
           </motion.button>
